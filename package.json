@@ -1,0 +1,24 @@
+{
+  "name": "takween-main",
+  "version": "1.0.0",
+  "description": "Welcome to the Multi-Modal Lab project! This README provides step-by-step instructions for setting up, starting, and shutting down the project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.5",
+    "heatmap.js": "^2.0.5",
+    "notistack": "^3.0.1",
+    "plotly.js": "^2.35.2",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-plotly.js": "^2.6.0",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1"
+  }
+}
